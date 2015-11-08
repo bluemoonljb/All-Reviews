@@ -3,9 +3,10 @@
 Note: This project is a fork of All Reviews in Magento Connect. 
 
 This project deals with following features:
-. Support 1.9.2.
-. Add pagination.
-. Be able to change number of reviews per page.
+
+    . Support 1.9.2.
+    . Add pagination.
+    . Be able to change number of reviews per page.
 
 All Reviews allows you to display all reviews of your products on a single CMS page. Customers searching Google, Bing, Yahoo for "YOUR STORE Reviews" will be able to find a page controlled by you with recent reviews of your products.
 
