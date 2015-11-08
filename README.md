@@ -13,6 +13,10 @@ All Reviews allows you to display all reviews of your products on a single CMS p
 You can see it in action here: http://www.kitchenhoods.ca/shop/reviews
 Instructions
 
+To install, copy "app" and "skin" folders, paste them into your Magento root folder and don't forget to merge them. 
+
+Log into admin, clear caches.
+
 After you install the module, go to System > Configuration > EKO Internet Marketing > All Reviews. Click the General tab to expand it.
 
 Now you need to configure the module. The default settings will work fine, but you can customize the way your reviews display by changing the different options
